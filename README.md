@@ -6,20 +6,13 @@ Empowering communities for a cleaner and greener future by streamlining waste co
 
 ---
 
-## 📂 Project Files
-
-> Download project resources:  
-> 🔗 [Link to Download Files – https://sdet.live/project1](https://sdet.live/project1) (replace with your actual download link)
-
----
-
 ## 📋 Features
 
-- Community-driven waste collection and recycling interface
-- Separate dashboards for households, businesses, and municipal workers
-- Survey-based data analysis for better collection route optimization
-- Awareness & education modules for sustainable practices
-- Admin panel for monitoring and managing disposal requests
+- Community-driven waste collection and recycling interface  
+- Separate dashboards for households, businesses, and municipal workers  
+- Survey-based data analysis for better collection route optimization  
+- Awareness & education modules for sustainable practices  
+- Admin panel for monitoring and managing disposal requests  
 
 ---
 
@@ -29,48 +22,37 @@ Empowering communities for a cleaner and greener future by streamlining waste co
 - **Prototyping/UI:** Figma  
 - **Backend:** Node.js / Express (Optional for future scope)  
 - **Database:** Firebase / MongoDB (Optional for future scope)  
-- **Testing & Reporting:** Postman, Newman, JSON Schema Validation  
-- **Documentation:** Excel Test Plan, Postman Collection, Environment Setup
 
 ---
 
-## ✅ Postman Testcases (in JS)
+## 🧠 Insights from Research
 
-> Postman API test collection including schema validation and environment configs.
+### 🔍 Objectives and Overview  
+![Objective and Overview](images/objective-overview.png)
 
-![Postman Collection Screenshot](https://github.com/PramodDutta/Software-Testing-Projects2/assets/1409610/29addb55-83f4-45d1-8b55-0a8870fd97e7)
+### 🚧 Key Challenges & Target Audience  
+![Key Challenges](images/key-challenges.png)
 
----
+### 📊 Survey Analysis  
+![Survey Insights](images/survey.png)
 
-## 📄 E2E Artifacts
+### 👥 User Personas  
+![User Personas](images/user-persona.png)
 
-- Test Plan (Excel)  
-- Test Case Templates  
-- Environment Variables Setup  
-- JSON Schema Validation  
-- Newman HTML Report Generation
+### 🗣️ Interviews & Feedback  
+![Interview Feedback](images/interviews.png)
 
----
-
-![Newman Report Screenshot](https://github.com/PramodDutta/Software-Testing-Projects2/assets/1409610/b56775cc-52a0-46ec-9341-da38b57878f8)
-
----
-
-## 🧠 Learnings
-
-- User research through surveys and interviews
-- Designing for accessibility and scalability
-- Addressing real-world sustainability challenges through tech
+### ✅ Conclusion  
+![Conclusion](images/conclusion.png)
 
 ---
 
 ## 🚀 Future Enhancements
 
-- Real-time waste pickup tracking
-- Machine learning-based route optimization
-- Integrating with local municipal APIs
+- Real-time waste pickup tracking  
+- Machine learning-based route optimization  
+- Integration with municipal services and APIs  
 
 ---
 
 > 🌱 Let’s build a cleaner world, one line of code at a time!
-
